@@ -73,6 +73,12 @@
 						</dependency>
 					</dependencies>
 				</plugin>
+				<!-- plugin sonar -->
+				<plugin>
+          			<groupId>org.codehaus.mojo</groupId>
+          			<artifactId>sonar-maven-plugin</artifactId>
+          			<version>2.7.1</version>
+        		</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
@@ -132,8 +138,8 @@
 
 <!-- GIT -->
 <scm>
-<connection>scm:git:http://github.com/SylviaRABE/tpmaven</connection>
- <url>http://github.com/SylviaRABE/tpmaven</url>
+<connection>scm:git:https://github.com/SylviaRABE/tpmaven.git</connection>
+ <url>https://github.com/SylviaRABE/tpmaven.git</url>
 </scm>
 
 
