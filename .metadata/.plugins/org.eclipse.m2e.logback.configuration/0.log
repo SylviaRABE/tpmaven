@@ -1,0 +1,538 @@
+2018-09-12 10:42:48,419 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-12 10:43:22,548 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml
+2018-09-12 10:43:23,660 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:43:23,919 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 10:43:23,922 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 10:43:24,566 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-09-12 10:43:25,199 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:43:25,199 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:43:25,202 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:43:25,202 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:43:33,518 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:43:33,519 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 10:43:36,004 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:43:36,005 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:43:36,011 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:43:36,011 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:43:39,809 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:43:39,809 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 10:43:44,540 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:43:44,540 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:43:44,544 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:43:44,546 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:44:23,807 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:44:23,807 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:44:23,810 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:44:23,811 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:44:24,888 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:44:24,888 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:44:24,890 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:44:24,890 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:44:36,194 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:44:36,195 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:44:36,207 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:44:36,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:45:12,186 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 10:45:12,773 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:45:13,011 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 10:45:13,012 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 10:45:13,092 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 10:45:13,432 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:45:13,433 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:45:13,436 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:45:13,437 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:45:26,672 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:45:26,672 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 10:45:29,104 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:45:29,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:45:29,110 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:45:29,111 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:45:37,358 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:45:37,358 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 10:45:40,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:45:40,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:45:40,892 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:45:40,892 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:46:17,281 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:46:17,528 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:17,535 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:46:17,538 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:17,538 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:46:18,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:18,800 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:46:18,802 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:18,802 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:46:27,243 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 10:46:27,642 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:46:27,759 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 10:46:27,760 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 10:46:27,846 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 10:46:28,090 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:28,090 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:46:28,092 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:28,092 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:46:32,522 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:46:32,522 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 10:46:34,682 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:34,684 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:46:34,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:34,689 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:46:39,059 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:46:39,059 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 10:46:44,823 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:44,823 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:46:44,825 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:46:44,825 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:47:51,866 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:47:52,020 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:47:52,020 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:47:52,023 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:47:52,023 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:47:57,244 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 10:47:57,544 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:47:57,634 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 10:47:57,635 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 10:47:57,724 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 10:47:57,944 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:47:57,944 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:47:57,948 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:47:57,948 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:48:03,504 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:48:03,504 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 10:48:05,917 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:05,917 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:48:05,921 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:05,922 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:48:09,294 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:48:09,294 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 10:48:14,147 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:14,148 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:48:14,158 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:14,158 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:48:46,758 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:48:46,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:46,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:48:46,894 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:46,894 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:48:52,481 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 10:48:52,793 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 10:48:52,935 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 10:48:52,937 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 10:48:52,992 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 10:48:53,327 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:53,327 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 10:48:53,330 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 10:48:53,330 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 10:49:41,272 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 10:49:41,272 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:11:45,831 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:11:45,990 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:11:45,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:11:45,994 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:11:45,994 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:11:54,910 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:11:55,281 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:11:55,405 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:11:55,406 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:11:55,452 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:11:55,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:11:55,796 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:11:55,800 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:11:55,800 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:11:59,726 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:11:59,727 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:12:02,152 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:12:02,152 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:12:02,155 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:12:02,155 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:12:03,843 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:12:03,844 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 11:12:08,861 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:12:08,861 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:12:08,862 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:12:08,862 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:12:14,408 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:12:14,408 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:14:04,693 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:14:04,694 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:14:04,697 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:14:04,699 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:14:11,233 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:14:11,524 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:14:11,689 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:14:11,689 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:14:11,770 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:14:12,132 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:14:12,132 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:14:12,135 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:14:12,136 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:14:18,081 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:14:18,081 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:15:01,377 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:15:01,488 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:15:01,489 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:15:01,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:15:01,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:15:11,562 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:15:11,904 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:15:12,023 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:15:12,025 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:15:12,101 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:15:12,480 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:15:12,481 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:15:12,490 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:15:12,490 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:15:18,048 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:15:18,048 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:15:34,514 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:15:34,630 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:15:34,631 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:15:34,634 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:15:34,634 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:16:31,536 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:16:31,651 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:16:31,652 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:16:31,654 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:16:31,654 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:17:03,278 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:17:03,390 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:17:03,390 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:17:03,392 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:17:03,393 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:18:17,950 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:18:18,070 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:18:18,071 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:18:18,075 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:18:18,075 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:18:23,154 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:18:23,425 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:18:23,524 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:18:23,525 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:18:23,564 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:18:23,849 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:18:23,849 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:18:23,851 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:18:23,852 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:18:30,691 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:18:30,691 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:19:54,924 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:19:55,048 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:19:55,048 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:19:55,051 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:19:55,051 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:20:01,871 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:20:02,144 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:20:02,235 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:20:02,236 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:20:02,282 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:20:02,630 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:20:02,630 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:20:02,632 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:20:02,632 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:20:10,803 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:20:10,803 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:20:13,012 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:20:13,013 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:20:13,014 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:20:13,015 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:20:21,423 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:20:21,424 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:26:01,643 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:26:01,644 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:26:01,645 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:26:01,646 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:26:07,271 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:26:07,514 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:26:07,646 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:26:07,646 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:26:07,729 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:26:08,006 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:26:08,006 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:26:08,008 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:26:08,008 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:26:12,612 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:26:12,612 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:26:14,760 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:26:14,760 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:26:14,762 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:26:14,763 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:26:20,820 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:26:20,820 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:43:09,937 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:43:10,088 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:43:10,088 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:43:10,090 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:43:10,090 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:44:06,854 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:44:06,946 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:44:06,947 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:44:06,949 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:44:06,949 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:44:39,886 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:44:39,984 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:44:39,984 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:44:39,987 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:44:39,987 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:44:50,631 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:44:50,863 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:44:50,971 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:44:50,972 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:44:51,038 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:44:51,290 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:44:51,290 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:44:51,293 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:44:51,293 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:45:25,369 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:45:25,369 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:45:27,576 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:45:27,577 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:45:27,580 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:45:27,581 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:45:34,460 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:45:34,460 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:48:48,202 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:48:48,365 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:48:48,365 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:48:48,367 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:48:48,367 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:49:10,837 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:49:11,089 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:49:11,175 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:49:11,175 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:49:11,217 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:49:11,538 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:49:11,538 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:49:11,539 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:49:11,540 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:49:16,478 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:49:16,478 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:49:18,665 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:49:18,665 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:49:18,667 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:49:18,667 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:49:32,881 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:49:32,881 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:50:29,455 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:50:29,633 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:50:29,633 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:50:29,635 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:50:29,635 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:51:59,315 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:51:59,496 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:51:59,562 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:51:59,562 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:51:59,608 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:51:59,853 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:51:59,853 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:51:59,856 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:51:59,856 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:52:49,454 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:52:49,580 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:52:49,581 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:52:49,582 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:52:49,582 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:52:55,839 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:52:56,037 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:52:56,122 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:52:56,123 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 11:52:56,170 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 11:52:56,556 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:52:56,556 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:52:56,558 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:52:56,558 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:53:04,426 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:53:04,426 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:54:15,041 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:54:15,041 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:54:17,051 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:54:17,051 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:54:17,053 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:54:17,053 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:54:20,729 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:54:20,729 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 11:54:25,425 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:54:25,425 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:54:25,427 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:54:25,428 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:54:31,841 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:54:31,842 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:57:00,484 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:57:00,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:57:00,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:57:00,598 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:57:00,598 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:57:39,246 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:57:39,246 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 11:57:41,436 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:57:41,437 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:57:41,441 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:57:41,441 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:57:47,203 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 11:57:47,203 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 11:59:53,662 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:59:53,663 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 11:59:53,667 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 11:59:53,667 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 11:59:59,627 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 11:59:59,849 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 11:59:59,968 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 11:59:59,968 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 12:00:00,007 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 12:00:00,324 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 12:00:00,324 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 12:00:00,325 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 12:00:00,326 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 12:00:04,224 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 12:00:04,224 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 12:00:06,541 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 12:00:06,541 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 12:00:06,543 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 12:00:06,544 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 12:00:13,003 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 12:00:13,003 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 16:16:08,798 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-12 16:16:27,310 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:16:27,314 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 16:18:59,401 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 16:18:59,758 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:18:59,759 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:18:59,763 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:18:59,763 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:19:20,052 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 16:19:20,256 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:20,256 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:19:20,262 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:20,264 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:19:30,304 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 16:19:30,913 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 16:19:31,073 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 16:19:31,078 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 16:19:31,229 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 16:19:31,755 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:31,755 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:19:31,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:31,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:19:39,634 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:19:39,635 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 16:19:41,994 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:41,994 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:19:41,996 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:41,997 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:19:48,292 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:19:48,293 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 16:19:53,509 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:53,510 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:19:53,514 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:19:53,515 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:20:14,343 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:20:14,343 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 16:20:45,045 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:20:45,045 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:20:45,047 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:20:45,047 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:22:31,559 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:31,560 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:22:31,562 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:31,562 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:22:40,314 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-12 16:22:40,804 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 16:22:41,055 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/main/java
+2018-09-12 16:22:41,056 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp1/src/test/java
+2018-09-12 16:22:41,161 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-12 16:22:41,540 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:41,540 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:22:41,546 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:41,546 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:22:45,128 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:22:45,128 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 16:22:47,340 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:47,341 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:22:47,345 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:47,346 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:22:51,756 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:22:51,756 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-12 16:22:56,588 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:56,589 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:22:56,593 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:22:56,594 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:23:23,029 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:23:23,030 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 16:23:41,943 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:23:41,943 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:23:41,948 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:23:41,949 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:24:38,269 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpmaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 16:24:38,434 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:24:38,434 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:24:38,436 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:24:38,437 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:24:53,520 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:24:53,520 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 16:27:31,708 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpMaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 16:27:32,028 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:27:32,029 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 16:27:32,032 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 16:27:32,032 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 16:27:41,132 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 16:27:41,133 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 19:26:12,647 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-12 19:32:01,629 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 19:32:01,630 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 19:32:47,701 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:32:47,701 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:32:47,704 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:32:47,704 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:32:49,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:32:49,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:32:49,766 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:32:49,766 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:37:10,914 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpMaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 19:37:11,178 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:37:11,178 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:37:11,182 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:37:11,182 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:37:25,294 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 19:37:25,295 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 19:38:30,993 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:38:30,994 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:38:31,002 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:38:31,002 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:40:52,439 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:40:52,439 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:40:52,441 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:40:52,441 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:41:15,590 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 19:41:15,591 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 19:41:50,195 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:41:50,196 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:41:50,197 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:41:50,197 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:44:02,134 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpMaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 19:44:02,296 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:44:02,297 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:44:02,299 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:44:02,299 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:44:11,258 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 19:44:11,259 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2018-09-12 19:45:13,269 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:45:13,269 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:45:13,272 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:45:13,272 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 19:54:16,405 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 19:54:16,406 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-12 19:54:18,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:54:18,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 19:54:18,310 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 19:54:18,310 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 20:06:06,460 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpMaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 20:06:06,601 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 20:06:06,601 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 20:06:06,603 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 20:06:06,603 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 20:16:35,706 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tpMaven:tp1:0.0.1-SNAPSHOT @ /home/rabe/eclipse-workspace/TAA/TP1/tp1/pom.xml.
+2018-09-12 20:16:35,827 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 20:16:35,827 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/main/resources
+2018-09-12 20:16:35,830 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-12 20:16:35,830 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rabe/eclipse-workspace/TAA/TP1/tp1/src/test/resources
+2018-09-12 20:18:43,962 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rabe/eclipse-workspace/TAA/TP1/tp1
+2018-09-12 20:18:43,962 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
